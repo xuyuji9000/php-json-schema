@@ -1,0 +1,13 @@
+{
+    "name": "yogiman/test",
+    "authors": [
+        {
+            "name": "Karl Xu",
+            "email": "karl.yogi.xu@gmail.com"
+        }
+    ],
+    "require": {
+        "justinrainbow/json-schema": "^5.2",
+        "geraintluff/jsv4": "^1.0"
+    }
+}
